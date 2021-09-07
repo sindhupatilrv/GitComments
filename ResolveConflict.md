@@ -1,1 +1,1 @@
-8ow to resolve the conflict on Git
+**How to resolve the conflict on Git**
