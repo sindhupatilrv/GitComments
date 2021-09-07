@@ -11,15 +11,15 @@
 3. git commit -m "Message"
 4. git push -u origin master / git push -f 
 
-**#3.	To create a new branch **
+**#3.To create a new branch **
 1. git checkout -b <Newbranchname>
 
-**#4	To list all the branch **
+****#4	To list all the branch ****
 1. git branch 
 
-**#5. To switch to another branch **
+****#5. To switch to another branch ****
 1. git checkout <branchName>
 
-**#6. How to pull or fetch**
+****#6. How to pull or fetch****
 1. git pull 
 2. git fetch 
