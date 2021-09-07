@@ -11,4 +11,5 @@
   
  **How to push the code to master without verify**
 1. git push origin master --no-verify
+  --no-verify switch will skip automated checks
   
