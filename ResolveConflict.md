@@ -17,3 +17,9 @@
      git commit --amend -> save the note
 9. git push -f
 
+ **In case to edit or add a new file or modify the file**
+        
+1. git rebase -i head~1
+2. git add filename
+3. git rebase --continue
+4. git push -f -no-verify 
