@@ -4,6 +4,8 @@
 1. Go to a local directory using git bash 
 2. git clone <clone-link> folder name
 	folder name is required
+3. add your fork to main master branch - git add upstream <link>
+4. check by using git remote -vv 
 	
 **#2.	How to push code to git repository 1st time**
 1. git init -> to initiate the git in the local repository
