@@ -1,0 +1,7 @@
+Problem :Whenever user wants to shift to new branches or new work stash can help us to save local branch work
+Usage :
+git stash save "any_name" - from here code will be stored inside your Git repository’s .git directory, under the stash list
+
+In order to apply changes git stash apply (if only one stash)  or git stash apply "saved_name"
+
+We are allowed to see stash list using git stash list
